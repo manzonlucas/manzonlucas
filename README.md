@@ -6,7 +6,12 @@
     alt="manzonlucas" />
 </p>
 
-- 🌱 I’m currently studying **'Certified Tech Developer', tech carreer by Globant, Mercado Libre and Digital House.**
+Software development student from Rosario, Santa Fe, Argentina
+manzonlucas
+
+Hi! I'm Lucas, 
+
+- 🌱 I've been studying software development since 2020. I’m currently studying **'Certified Tech Developer' (tech carreer by Globant, Mercado Libre and Digital House)**, Colt Steele's Udemy course 'The Web Developer Bootcamp 2022', among other courses.
 
 - 📫 How to reach me **manzonlucasm@gmail.com**
 
