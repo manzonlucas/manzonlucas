@@ -10,7 +10,11 @@ Hi! I'm Lucas,
 
 - 🌱 I've been studying software development since 2020. I’m currently studying **'Certified Tech Developer' (tech carreer by Globant, Mercado Libre and Digital House)**, Colt Steele's Udemy course 'The Web Developer Bootcamp 2022', among other courses.
 
-- 📫 How to reach me **manzonlucasm@gmail.com**
+- 📚 Currently I'm a medic (Facultad de Ciencias Médicas UNR, Argentina). Looking forward to get into the tech industry as a frontend developer.
+
+- 💻 More professional info at:
+ADD LINKEDIN
+- 📫 Contact: **manzonlucasm@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
