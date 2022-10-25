@@ -11,7 +11,7 @@ Hi! I'm Lucas,
 
 - 📚 Currently I'm a medic (Facultad de Ciencias Médicas UNR, Argentina). Looking forward to get into the tech industry as a frontend developer.
 
-- 🌎 English level of C2 Proficient, according to the Common European Framework of Reference (CEFR) and 73/100 on the EF Standard English Test (SET) score scale: **https://www.efset.org/cert/YCWEvy**
+- 🌎 English level of C2 Proficient, according to the Common European Framework of Reference (CEFR) with a 73/100 score on the EF Standard English Test (SET) scale: **https://www.efset.org/cert/YCWEvy**
 
 - 💻 More professional info at: **https://www.linkedin.com/in/manzonlucas**
 
