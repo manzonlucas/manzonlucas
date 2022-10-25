@@ -8,12 +8,14 @@
 
 Hi! I'm Lucas, 
 
-- 🌱 I've been studying software development since 2020. I’m currently studying **'Certified Tech Developer' (tech carreer by Globant, Mercado Libre and Digital House)**, Colt Steele's Udemy course 'The Web Developer Bootcamp 2022', among other courses.
+- 🌱 I've been studying software development since 2020. I’m currently studying **'Certified Tech Developer' (tech carreer by Globant, Mercado Libre and Digital House)**, after being through Colt Steele's Udemy course 'The Web Developer Bootcamp 2022', among other development courses.
 
 - 📚 Currently I'm a medic (Facultad de Ciencias Médicas UNR, Argentina). Looking forward to get into the tech industry as a frontend developer.
 
-- 💻 More professional info at:
-ADD LINKEDIN
+- 🌎 English level of C2 Proficient, according to the Common European Framework of Reference (CEFR) and 73/100 on the EF SET score scale: **https://www.efset.org/cert/YCWEvy**
+
+- 💻 More professional info at: **https://www.linkedin.com/in/manzonlucas**
+
 - 📫 Contact: **manzonlucasm@gmail.com**
 
 <h3 align="center">Languages and Tools:</h3>
