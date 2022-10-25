@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lucas Matías Manzón</h1>
 <h3 align="center">Software development student from Rosario, Santa Fe, Argentina</h3>
 
-<p align="left"> <img
+<p align="center"> <img
     src="https://komarev.com/ghpvc/?username=manzonlucas&label=Profile%20views&color=0e75b6&style=flat"
     alt="manzonlucas" />
 </p>
-
 Hi! I'm Lucas, 
 
 - 🌱 I've been studying software development since 2020. I’m currently studying **'Certified Tech Developer' (tech carreer by Globant, Mercado Libre and Digital House)**, after being through Colt Steele's Udemy course 'The Web Developer Bootcamp 2022', among other development courses.
