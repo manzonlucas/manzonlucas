@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Matías Manzón</h1>
-<h3 align="center">Software development student from Rosario, Santa Fe, Argentina</h3>
+<h3 align="center">Full stack web developer from Rosario, Santa Fe, Argentina</h3>
 
 <p align="center"> <img
     src="https://komarev.com/ghpvc/?username=manzonlucas&label=Profile%20views&color=0e75b6&style=flat"
