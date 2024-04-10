@@ -7,13 +7,15 @@
 </p>
 Hi! I'm Lucas, 
 
-- 🌱 I've been studying software development since 2020. I have just finished **'Certified Tech Developer' (tech carreer by Globant, Mercado Libre and Digital House)**, after being through Colt Steele's Udemy course 'The Web Developer Bootcamp 2022', among other [development courses](https://www.linkedin.com/in/lucasmanzon/details/certifications/).
+- 💻 I'm a full stack web developer, mainly focused in frontend with technologies like React.js and Next.js, with experience in agile methodologies. I've started my professional career in 2023.
 
-- 📚 Currently I'm a medic (Facultad de Ciencias Médicas UNR, Argentina). Looking forward to get into the tech industry as a software developer.
+- 🌱 I've been studying software development since 2020: finishing **'Certified Tech Developer' (tech carreer by Globant, Mercado Libre and Digital House)** in 2022, after being through Colt Steele's Udemy course 'The Web Developer Bootcamp 2022', among other [development courses](https://www.linkedin.com/in/lucasmanzon/details/certifications/).
+
+- 📚 While I was starting my current career, I was working as a medic at the same time, graduated in 2020 in Facultad de Ciencias Médicas UNR, Argentina.
 
 - 🌎 English level of C2 Proficient, according to the Common European Framework of Reference (CEFR) with a 73/100 score on the EF Standard English Test (SET) scale: **https://www.efset.org/cert/YCWEvy**
 
-- 💻 More professional info at: **https://www.linkedin.com/in/manzonlucas**
+- 👨‍💻 More professional info at: **https://www.linkedin.com/in/manzonlucas**
 
 - 📫 Contact: **manzonlucasm@gmail.com**
 
